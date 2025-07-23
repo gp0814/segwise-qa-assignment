@@ -1,8 +1,8 @@
 import asyncio
 from playwright.async_api import async_playwright
 
-EMAIL = "qa@segwise.ai"
-PASSWORD = "segwise_test"
+EMAIL = "*******"
+PASSWORD = "*******"
 LOGIN_URL = "https://auth.segwise.ai/en/login"
 DASHBOARD_URL = "https://app.segwise.ai/dashboard"
 CHART_SELECTOR = "canvas"

@@ -8,7 +8,7 @@
 - **Environment:**  
   - **Browser:** Google Chrome (Latest version)  
   - **OS:** Windows 11  
-  - **Login used:** qa@segwise.ai / segwise_test  
+  - **Login used:** qa@example.com / ********** 
 
 ---
 

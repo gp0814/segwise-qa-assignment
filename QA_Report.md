@@ -1,7 +1,7 @@
 # 🐞 QA Report – Segwise.ai Dashboard
 
 ## 👤 Tester Info
-- **Email Used**: qa@segwise.ai
+- **Email Used**: **********
 
 ---
 
